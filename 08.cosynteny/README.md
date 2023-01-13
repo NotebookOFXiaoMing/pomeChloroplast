@@ -18,7 +18,7 @@ cat \co_synteny\MCScanX_input\*.gff > cp.gff
 # conda install blast
 
 makeblastdb -in cp.fasta -dbtype prot -parse_seqids -out cp_fasta.db/pde_ptr
-blastp -query cp.fasta -out cp.blastpout -db cp_fasta.db/pde_ptr -outfmt 6 -evalue 1e-5
+blastp -query cp.fasta -out cp.blastp -db cp_fasta.db/pde_ptr -outfmt 6 -evalue 1e-5
 
 ~/biotools/MCScanX-master/MCScanX cp
 ```
