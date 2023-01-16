@@ -39,3 +39,24 @@ import pandas as pd
 
 pd.DataFrame(df_dict).to_csv("pome_cp_len.csv",index=False)
 ```
+
+```
+df<-read.csv("D:/Bioinformatics_Intro/organelle-assembly/pome_cp/pome_cp_len.csv")
+colnames(df)
+table(df$seq_len)
+range(df$seq_len)
+mean(df$seq_len)
+table(df$LSC_len)
+mean(df$LSC_len)
+table(df$SSC_len)
+mean(df$SSC_len)
+table(df$IR_len)
+
+table(df$LSC_GC)
+mean(df$LSC_GC)
+table(df$SSC_GC)
+mean(df$SSC_GC)
+table(df$IR_GC)
+mean(df$IR_GC)
+
+```
