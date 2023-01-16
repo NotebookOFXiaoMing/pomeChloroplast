@@ -15,6 +15,7 @@ df_dict = {'seq_id':[],
           'LSC_len':[],
           'SSC_len':[],
           'IR_len':[],
+          'seq_GC':[],
           'LSC_GC':[],
           'SSC_GC':[],
           'IR_GC':[]}
@@ -23,6 +24,7 @@ for rec in GFF.parse(in_gff):
     cp_seq = SeqIO.to_dict(SeqIO.parse(fasta_folder + rec.id + ".fasta",'fasta'))[rec.id].seq
     df_dict['seq_id'].append(rec.id)
     df_dict['seq_len'].append(len(cp_seq))
+    df_dict['seq_GC'].append(round(GC(cp_seq),2))
     for feature in rec.features:
         if 'Note' in feature.qualifiers.keys() and feature.qualifiers['Note'][0] == 'small_single_copy_(SSC)':
             df_dict['SSC_GC'].append(round(GC(feature.extract(cp_seq)),2)),
@@ -58,5 +60,8 @@ table(df$SSC_GC)
 mean(df$SSC_GC)
 table(df$IR_GC)
 mean(df$IR_GC)
+
+table(df$seq_GC)
+mean(df$seq_GC)
 
 ```
