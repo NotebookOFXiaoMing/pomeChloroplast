@@ -1,0 +1,702 @@
+##gff-version 3
+##source-version GeSeq 2.03
+##sequence-region	Ch_BHYSZ_cp	1	158638
+Ch_BHYSZ_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_BHYSZ_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_BHYSZ_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_BHYSZ_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_BHYSZ_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_BHYSZ_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Tahmd_cp	1	158641
+Tahmd_cp	GeSeq	region	1	158641	.	+	0	Is_circular=true
+Tahmd_cp	GeSeq	source	1	158641	.	+	1	ID=source-null;gbkey=source
+Tahmd_cp	OGDRAW	inverted_repeat	133176	158641	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Tahmd_cp	OGDRAW	inverted_repeat	89027	114492	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Tahmd_cp	OGDRAW	sequence_feature	114493	133175	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Tahmd_cp	OGDRAW	sequence_feature	1	89026	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY02_cp	1	158629
+Ti_JY02_cp	GeSeq	region	1	158629	.	+	0	Is_circular=true
+Ti_JY02_cp	GeSeq	source	1	158629	.	+	1	ID=source-null;gbkey=source
+Ti_JY02_cp	OGDRAW	inverted_repeat	133164	158629	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY02_cp	OGDRAW	inverted_repeat	89013	114478	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY02_cp	OGDRAW	sequence_feature	114479	133163	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY02_cp	OGDRAW	sequence_feature	1	89012	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_GLG_cp	1	158638
+Gl_GLG_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_GLG_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_GLG_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_GLG_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_GLG_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_GLG_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_YCL_cp	1	158638
+Ch_YCL_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_YCL_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_YCL_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_YCL_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_YCL_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_YCL_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ycfhmd_cp	1	158641
+Ycfhmd_cp	GeSeq	region	1	158641	.	+	0	Is_circular=true
+Ycfhmd_cp	GeSeq	source	1	158641	.	+	1	ID=source-null;gbkey=source
+Ycfhmd_cp	OGDRAW	inverted_repeat	133176	158641	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ycfhmd_cp	OGDRAW	inverted_repeat	89027	114492	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ycfhmd_cp	OGDRAW	sequence_feature	114493	133175	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ycfhmd_cp	OGDRAW	sequence_feature	1	89026	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY11_cp	1	158629
+Ti_JY11_cp	GeSeq	region	1	158629	.	+	0	Is_circular=true
+Ti_JY11_cp	GeSeq	source	1	158629	.	+	1	ID=source-null;gbkey=source
+Ti_JY11_cp	OGDRAW	inverted_repeat	133164	158629	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY11_cp	OGDRAW	inverted_repeat	89013	114478	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY11_cp	OGDRAW	sequence_feature	114479	133163	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY11_cp	OGDRAW	sequence_feature	1	89012	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Tasbt_cp	1	158638
+Tasbt_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Tasbt_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Tasbt_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Tasbt_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Tasbt_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Tasbt_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY15_cp	1	158629
+Ti_JY15_cp	GeSeq	region	1	158629	.	+	0	Is_circular=true
+Ti_JY15_cp	GeSeq	source	1	158629	.	+	1	ID=source-null;gbkey=source
+Ti_JY15_cp	OGDRAW	inverted_repeat	133164	158629	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY15_cp	OGDRAW	inverted_repeat	89013	114478	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY15_cp	OGDRAW	sequence_feature	114479	133163	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY15_cp	OGDRAW	sequence_feature	1	89012	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY14_cp	1	158629
+Ti_JY14_cp	GeSeq	region	1	158629	.	+	0	Is_circular=true
+Ti_JY14_cp	GeSeq	source	1	158629	.	+	1	ID=source-null;gbkey=source
+Ti_JY14_cp	OGDRAW	inverted_repeat	133164	158629	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY14_cp	OGDRAW	inverted_repeat	89013	114478	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY14_cp	OGDRAW	sequence_feature	114479	133163	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY14_cp	OGDRAW	sequence_feature	1	89012	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY10_cp	1	158629
+Ti_JY10_cp	GeSeq	region	1	158629	.	+	0	Is_circular=true
+Ti_JY10_cp	GeSeq	source	1	158629	.	+	1	ID=source-null;gbkey=source
+Ti_JY10_cp	OGDRAW	inverted_repeat	133164	158629	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY10_cp	OGDRAW	inverted_repeat	89013	114478	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY10_cp	OGDRAW	sequence_feature	114479	133163	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY10_cp	OGDRAW	sequence_feature	1	89012	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_ZL02_cp	1	158638
+Ti_ZL02_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_ZL02_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_ZL02_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_ZL02_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_ZL02_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_ZL02_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_BAL_cp	1	158638
+Gl_BAL_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_BAL_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_BAL_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_BAL_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_BAL_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_BAL_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY07_cp	1	158629
+Ti_JY07_cp	GeSeq	region	1	158629	.	+	0	Is_circular=true
+Ti_JY07_cp	GeSeq	source	1	158629	.	+	1	ID=source-null;gbkey=source
+Ti_JY07_cp	OGDRAW	inverted_repeat	133164	158629	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY07_cp	OGDRAW	inverted_repeat	89013	114478	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY07_cp	OGDRAW	sequence_feature	114479	133163	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY07_cp	OGDRAW	sequence_feature	1	89012	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_YLD_cp	1	158638
+Ch_YLD_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_YLD_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_YLD_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_YLD_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_YLD_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_YLD_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_UTA_cp	1	158638
+Gl_UTA_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_UTA_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_UTA_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_UTA_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_UTA_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_UTA_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY06_cp	1	158629
+Ti_JY06_cp	GeSeq	region	1	158629	.	+	0	Is_circular=true
+Ti_JY06_cp	GeSeq	source	1	158629	.	+	1	ID=source-null;gbkey=source
+Ti_JY06_cp	OGDRAW	inverted_repeat	133164	158629	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY06_cp	OGDRAW	inverted_repeat	89013	114478	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY06_cp	OGDRAW	sequence_feature	114479	133163	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY06_cp	OGDRAW	sequence_feature	1	89012	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_GOL_cp	1	158638
+Gl_GOL_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_GOL_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_GOL_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_GOL_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_GOL_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_GOL_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_GB01_cp	1	158638
+Ti_GB01_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_GB01_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_GB01_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_GB01_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_GB01_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_GB01_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_YCDHPT_cp	1	158651
+Ch_YCDHPT_cp	GeSeq	region	1	158651	.	+	0	Is_circular=true
+Ch_YCDHPT_cp	GeSeq	source	1	158651	.	+	1	ID=source-null;gbkey=source
+Ch_YCDHPT_cp	OGDRAW	inverted_repeat	133186	158651	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_YCDHPT_cp	OGDRAW	inverted_repeat	89021	114486	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_YCDHPT_cp	OGDRAW	sequence_feature	114487	133185	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_YCDHPT_cp	OGDRAW	sequence_feature	1	89020	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_JPT_cp	1	158638
+Ch_JPT_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_JPT_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_JPT_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_JPT_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_JPT_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_JPT_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_GB02_cp	1	158638
+Ti_GB02_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_GB02_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_GB02_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_GB02_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_GB02_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_GB02_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_ZE02_cp	1	158638
+Ti_ZE02_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_ZE02_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_ZE02_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_ZE02_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_ZE02_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_ZE02_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_TSSB_cp	1	158652
+Ch_TSSB_cp	GeSeq	region	1	158652	.	+	0	Is_circular=true
+Ch_TSSB_cp	GeSeq	source	1	158652	.	+	1	ID=source-null;gbkey=source
+Ch_TSSB_cp	OGDRAW	inverted_repeat	133187	158652	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_TSSB_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_TSSB_cp	OGDRAW	sequence_feature	114488	133186	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_TSSB_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_GRE_cp	1	158638
+Gl_GRE_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_GRE_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_GRE_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_GRE_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_GRE_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_GRE_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_KAJ_cp	1	158649
+Gl_KAJ_cp	GeSeq	region	1	158649	.	+	0	Is_circular=true
+Gl_KAJ_cp	GeSeq	source	1	158649	.	+	1	ID=source-null;gbkey=source
+Gl_KAJ_cp	OGDRAW	inverted_repeat	133184	158649	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_KAJ_cp	OGDRAW	inverted_repeat	89032	114497	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_KAJ_cp	OGDRAW	sequence_feature	114498	133183	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_KAJ_cp	OGDRAW	sequence_feature	1	89031	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_ZL01_cp	1	158638
+Ti_ZL01_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_ZL01_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_ZL01_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_ZL01_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_ZL01_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_ZL01_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_DWA_cp	1	158638
+Gl_DWA_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_DWA_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_DWA_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_DWA_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_DWA_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_DWA_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_AZA_cp	1	158641
+Gl_AZA_cp	GeSeq	region	1	158641	.	+	0	Is_circular=true
+Gl_AZA_cp	GeSeq	source	1	158641	.	+	1	ID=source-null;gbkey=source
+Gl_AZA_cp	OGDRAW	inverted_repeat	133176	158641	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_AZA_cp	OGDRAW	inverted_repeat	89027	114492	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_AZA_cp	OGDRAW	sequence_feature	114493	133175	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_AZA_cp	OGDRAW	sequence_feature	1	89026	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_GB04_cp	1	158638
+Ti_GB04_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_GB04_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_GB04_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_GB04_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_GB04_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_GB04_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_HBS_cp	1	158638
+Ch_HBS_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_HBS_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_HBS_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_HBS_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_HBS_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_HBS_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Njdbmn_cp	1	158644
+Njdbmn_cp	GeSeq	region	1	158644	.	+	0	Is_circular=true
+Njdbmn_cp	GeSeq	source	1	158644	.	+	1	ID=source-null;gbkey=source
+Njdbmn_cp	OGDRAW	inverted_repeat	133179	158644	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Njdbmn_cp	OGDRAW	inverted_repeat	89027	114492	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Njdbmn_cp	OGDRAW	sequence_feature	114493	133178	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Njdbmn_cp	OGDRAW	sequence_feature	1	89026	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_PAR_cp	1	158641
+Gl_PAR_cp	GeSeq	region	1	158641	.	+	0	Is_circular=true
+Gl_PAR_cp	GeSeq	source	1	158641	.	+	1	ID=source-null;gbkey=source
+Gl_PAR_cp	OGDRAW	inverted_repeat	133176	158641	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_PAR_cp	OGDRAW	inverted_repeat	89027	114492	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_PAR_cp	OGDRAW	sequence_feature	114493	133175	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_PAR_cp	OGDRAW	sequence_feature	1	89026	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_PAL_cp	1	158638
+Gl_PAL_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_PAL_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_PAL_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_PAL_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_PAL_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_PAL_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Nlcbh_cp	1	158655
+Nlcbh_cp	GeSeq	region	1	158655	.	+	0	Is_circular=true
+Nlcbh_cp	GeSeq	source	1	158655	.	+	1	ID=source-null;gbkey=source
+Nlcbh_cp	OGDRAW	inverted_repeat	133190	158655	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Nlcbh_cp	OGDRAW	inverted_repeat	89038	114503	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Nlcbh_cp	OGDRAW	sequence_feature	114504	133189	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Nlcbh_cp	OGDRAW	sequence_feature	1	89037	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_ANG_cp	1	158638
+Gl_ANG_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_ANG_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_ANG_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_ANG_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_ANG_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_ANG_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_AB01_cp	1	158638
+Ti_AB01_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_AB01_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_AB01_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_AB01_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_AB01_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_AB01_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_ZE03_cp	1	158638
+Ti_ZE03_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_ZE03_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_ZE03_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_ZE03_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_ZE03_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_ZE03_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Lybms_cp	1	158638
+Lybms_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Lybms_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Lybms_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Lybms_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Lybms_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Lybms_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_CX02_cp	1	158639
+Ti_CX02_cp	GeSeq	region	1	158639	.	+	0	Is_circular=true
+Ti_CX02_cp	GeSeq	source	1	158639	.	+	1	ID=source-null;gbkey=source
+Ti_CX02_cp	OGDRAW	inverted_repeat	133174	158639	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_CX02_cp	OGDRAW	inverted_repeat	89023	114488	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_CX02_cp	OGDRAW	sequence_feature	114489	133173	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_CX02_cp	OGDRAW	sequence_feature	1	89022	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_MOL_cp	1	158641
+Gl_MOL_cp	GeSeq	region	1	158641	.	+	0	Is_circular=true
+Gl_MOL_cp	GeSeq	source	1	158641	.	+	1	ID=source-null;gbkey=source
+Gl_MOL_cp	OGDRAW	inverted_repeat	133176	158641	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_MOL_cp	OGDRAW	inverted_repeat	89027	114492	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_MOL_cp	OGDRAW	sequence_feature	114493	133175	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_MOL_cp	OGDRAW	sequence_feature	1	89026	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_HHYSZ_cp	1	158638
+Ch_HHYSZ_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_HHYSZ_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_HHYSZ_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_HHYSZ_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_HHYSZ_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_HHYSZ_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY12_cp	1	158629
+Ti_JY12_cp	GeSeq	region	1	158629	.	+	0	Is_circular=true
+Ti_JY12_cp	GeSeq	source	1	158629	.	+	1	ID=source-null;gbkey=source
+Ti_JY12_cp	OGDRAW	inverted_repeat	133164	158629	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY12_cp	OGDRAW	inverted_repeat	89013	114478	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY12_cp	OGDRAW	sequence_feature	114479	133163	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY12_cp	OGDRAW	sequence_feature	1	89012	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_YCDMYT_cp	1	158638
+Ch_YCDMYT_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_YCDMYT_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_YCDMYT_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_YCDMYT_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_YCDMYT_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_YCDMYT_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_VKU_cp	1	158641
+Gl_VKU_cp	GeSeq	region	1	158641	.	+	0	Is_circular=true
+Gl_VKU_cp	GeSeq	source	1	158641	.	+	1	ID=source-null;gbkey=source
+Gl_VKU_cp	OGDRAW	inverted_repeat	133176	158641	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_VKU_cp	OGDRAW	inverted_repeat	89027	114492	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_VKU_cp	OGDRAW	sequence_feature	114493	133175	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_VKU_cp	OGDRAW	sequence_feature	1	89026	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Nlcbmb_cp	1	158655
+Nlcbmb_cp	GeSeq	region	1	158655	.	+	0	Is_circular=true
+Nlcbmb_cp	GeSeq	source	1	158655	.	+	1	ID=source-null;gbkey=source
+Nlcbmb_cp	OGDRAW	inverted_repeat	133190	158655	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Nlcbmb_cp	OGDRAW	inverted_repeat	89038	114503	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Nlcbmb_cp	OGDRAW	sequence_feature	114504	133189	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Nlcbmb_cp	OGDRAW	sequence_feature	1	89037	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_TSH_cp	1	158638
+Ch_TSH_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_TSH_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_TSH_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_TSH_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_TSH_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_TSH_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_GL01_cp	1	158638
+Ti_GL01_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_GL01_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_GL01_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_GL01_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_GL01_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_GL01_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_CX01_cp	1	158642
+Ti_CX01_cp	GeSeq	region	1	158642	.	+	0	Is_circular=true
+Ti_CX01_cp	GeSeq	source	1	158642	.	+	1	ID=source-null;gbkey=source
+Ti_CX01_cp	OGDRAW	inverted_repeat	133177	158642	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_CX01_cp	OGDRAW	inverted_repeat	89026	114491	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_CX01_cp	OGDRAW	sequence_feature	114492	133176	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_CX01_cp	OGDRAW	sequence_feature	1	89025	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_DES_cp	1	158638
+Gl_DES_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_DES_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_DES_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_DES_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_DES_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_DES_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_ARA_cp	1	158641
+Gl_ARA_cp	GeSeq	region	1	158641	.	+	0	Is_circular=true
+Gl_ARA_cp	GeSeq	source	1	158641	.	+	1	ID=source-null;gbkey=source
+Gl_ARA_cp	OGDRAW	inverted_repeat	133176	158641	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_ARA_cp	OGDRAW	inverted_repeat	89027	114492	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_ARA_cp	OGDRAW	sequence_feature	114493	133175	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_ARA_cp	OGDRAW	sequence_feature	1	89026	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_SOG_cp	1	158641
+Gl_SOG_cp	GeSeq	region	1	158641	.	+	0	Is_circular=true
+Gl_SOG_cp	GeSeq	source	1	158641	.	+	1	ID=source-null;gbkey=source
+Gl_SOG_cp	OGDRAW	inverted_repeat	133176	158641	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_SOG_cp	OGDRAW	inverted_repeat	89027	114492	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_SOG_cp	OGDRAW	sequence_feature	114493	133175	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_SOG_cp	OGDRAW	sequence_feature	1	89026	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_WON_cp	1	158638
+Gl_WON_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_WON_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_WON_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_WON_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_WON_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_WON_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Nlcbmn_cp	1	158655
+Nlcbmn_cp	GeSeq	region	1	158655	.	+	0	Is_circular=true
+Nlcbmn_cp	GeSeq	source	1	158655	.	+	1	ID=source-null;gbkey=source
+Nlcbmn_cp	OGDRAW	inverted_repeat	133190	158655	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Nlcbmn_cp	OGDRAW	inverted_repeat	89038	114503	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Nlcbmn_cp	OGDRAW	sequence_feature	114504	133189	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Nlcbmn_cp	OGDRAW	sequence_feature	1	89037	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_DHP_cp	1	158639
+Ch_DHP_cp	GeSeq	region	1	158639	.	+	0	Is_circular=true
+Ch_DHP_cp	GeSeq	source	1	158639	.	+	1	ID=source-null;gbkey=source
+Ch_DHP_cp	OGDRAW	inverted_repeat	133174	158639	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_DHP_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_DHP_cp	OGDRAW	sequence_feature	114488	133173	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_DHP_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_YB03_cp	1	158638
+Ti_YB03_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_YB03_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_YB03_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_YB03_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_YB03_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_YB03_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_SXDZ_cp	1	158638
+Ch_SXDZ_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_SXDZ_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_SXDZ_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_SXDZ_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_SXDZ_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_SXDZ_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_TK_cp	1	158652
+Ch_TK_cp	GeSeq	region	1	158652	.	+	0	Is_circular=true
+Ch_TK_cp	GeSeq	source	1	158652	.	+	1	ID=source-null;gbkey=source
+Ch_TK_cp	OGDRAW	inverted_repeat	133187	158652	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_TK_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_TK_cp	OGDRAW	sequence_feature	114488	133186	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_TK_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_DBZ_cp	1	158638
+Ch_DBZ_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_DBZ_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_DBZ_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_DBZ_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_DBZ_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_DBZ_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_YSL01_cp	1	158651
+Ch_YSL01_cp	GeSeq	region	1	158651	.	+	0	Is_circular=true
+Ch_YSL01_cp	GeSeq	source	1	158651	.	+	1	ID=source-null;gbkey=source
+Ch_YSL01_cp	OGDRAW	inverted_repeat	133186	158651	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_YSL01_cp	OGDRAW	inverted_repeat	89021	114486	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_YSL01_cp	OGDRAW	sequence_feature	114487	133185	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_YSL01_cp	OGDRAW	sequence_feature	1	89020	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_SHA_cp	1	158642
+Gl_SHA_cp	GeSeq	region	1	158642	.	+	0	Is_circular=true
+Gl_SHA_cp	GeSeq	source	1	158642	.	+	1	ID=source-null;gbkey=source
+Gl_SHA_cp	OGDRAW	inverted_repeat	133177	158642	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_SHA_cp	OGDRAW	inverted_repeat	89028	114493	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_SHA_cp	OGDRAW	sequence_feature	114494	133176	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_SHA_cp	OGDRAW	sequence_feature	1	89027	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_AGA_cp	1	158638
+Gl_AGA_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_AGA_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_AGA_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_AGA_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_AGA_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_AGA_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY09_cp	1	158629
+Ti_JY09_cp	GeSeq	region	1	158629	.	+	0	Is_circular=true
+Ti_JY09_cp	GeSeq	source	1	158629	.	+	1	ID=source-null;gbkey=source
+Ti_JY09_cp	OGDRAW	inverted_repeat	133164	158629	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY09_cp	OGDRAW	inverted_repeat	89013	114478	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY09_cp	OGDRAW	sequence_feature	114479	133163	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY09_cp	OGDRAW	sequence_feature	1	89012	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Nldbh_cp	1	158638
+Nldbh_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Nldbh_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Nldbh_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Nldbh_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Nldbh_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Nldbh_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_AMB_cp	1	158638
+Gl_AMB_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_AMB_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_AMB_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_AMB_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_AMB_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_AMB_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_AB03_cp	1	158618
+Ti_AB03_cp	GeSeq	region	1	158618	.	+	0	Is_circular=true
+Ti_AB03_cp	GeSeq	source	1	158618	.	+	1	ID=source-null;gbkey=source
+Ti_AB03_cp	OGDRAW	inverted_repeat	133153	158618	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_AB03_cp	OGDRAW	inverted_repeat	89002	114467	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_AB03_cp	OGDRAW	sequence_feature	114468	133152	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_AB03_cp	OGDRAW	sequence_feature	1	89001	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_RAN_cp	1	158638
+Gl_RAN_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_RAN_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_RAN_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_RAN_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_RAN_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_RAN_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY01_cp	1	158638
+Ti_JY01_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_JY01_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_JY01_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY01_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY01_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY01_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_PST_cp	1	158637
+Gl_PST_cp	GeSeq	region	1	158637	.	+	0	Is_circular=true
+Gl_PST_cp	GeSeq	source	1	158637	.	+	1	ID=source-null;gbkey=source
+Gl_PST_cp	OGDRAW	inverted_repeat	133172	158637	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_PST_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_PST_cp	OGDRAW	sequence_feature	114488	133171	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_PST_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_YSL02_cp	1	158638
+Ch_YSL02_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_YSL02_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_YSL02_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_YSL02_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_YSL02_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_YSL02_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_TP_cp	1	158638
+Ch_TP_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_TP_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_TP_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_TP_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_TP_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_TP_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_YB02_cp	1	158638
+Ti_YB02_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_YB02_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_YB02_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_YB02_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_YB02_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_YB02_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Mgcbmn_cp	1	158644
+Mgcbmn_cp	GeSeq	region	1	158644	.	+	0	Is_circular=true
+Mgcbmn_cp	GeSeq	source	1	158644	.	+	1	ID=source-null;gbkey=source
+Mgcbmn_cp	OGDRAW	inverted_repeat	133179	158644	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Mgcbmn_cp	OGDRAW	inverted_repeat	89027	114492	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Mgcbmn_cp	OGDRAW	sequence_feature	114493	133178	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Mgcbmn_cp	OGDRAW	sequence_feature	1	89026	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_PUR_cp	1	158641
+Gl_PUR_cp	GeSeq	region	1	158641	.	+	0	Is_circular=true
+Gl_PUR_cp	GeSeq	source	1	158641	.	+	1	ID=source-null;gbkey=source
+Gl_PUR_cp	OGDRAW	inverted_repeat	133176	158641	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_PUR_cp	OGDRAW	inverted_repeat	89027	114492	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_PUR_cp	OGDRAW	sequence_feature	114493	133175	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_PUR_cp	OGDRAW	sequence_feature	1	89026	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_HBRZ_cp	1	158638
+Ch_HBRZ_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_HBRZ_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_HBRZ_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_HBRZ_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_HBRZ_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_HBRZ_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_EVE_cp	1	158638
+Gl_EVE_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_EVE_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_EVE_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_EVE_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_EVE_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_EVE_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gd_cp	1	158638
+Gd_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gd_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gd_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gd_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gd_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gd_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_YB01_cp	1	158638
+Ti_YB01_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_YB01_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_YB01_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_YB01_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_YB01_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_YB01_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_RUS_cp	1	158638
+Gl_RUS_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_RUS_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_RUS_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_RUS_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_RUS_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_RUS_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_TLZ_cp	1	158633
+Ch_TLZ_cp	GeSeq	region	1	158633	.	+	0	Is_circular=true
+Ch_TLZ_cp	GeSeq	source	1	158633	.	+	1	ID=source-null;gbkey=source
+Ch_TLZ_cp	OGDRAW	inverted_repeat	133168	158633	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_TLZ_cp	OGDRAW	inverted_repeat	89016	114481	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_TLZ_cp	OGDRAW	sequence_feature	114482	133167	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_TLZ_cp	OGDRAW	sequence_feature	1	89015	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_ZL03_cp	1	158638
+Ti_ZL03_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_ZL03_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_ZL03_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_ZL03_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_ZL03_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_ZL03_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_GB03_cp	1	158638
+Ti_GB03_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_GB03_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_GB03_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_GB03_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_GB03_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_GB03_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_SUR_cp	1	158638
+Gl_SUR_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_SUR_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_SUR_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_SUR_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_SUR_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_SUR_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_SUM_cp	1	158641
+Gl_SUM_cp	GeSeq	region	1	158641	.	+	0	Is_circular=true
+Gl_SUM_cp	GeSeq	source	1	158641	.	+	1	ID=source-null;gbkey=source
+Gl_SUM_cp	OGDRAW	inverted_repeat	133176	158641	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_SUM_cp	OGDRAW	inverted_repeat	89027	114492	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_SUM_cp	OGDRAW	sequence_feature	114493	133175	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_SUM_cp	OGDRAW	sequence_feature	1	89026	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_YCDQPT_cp	1	158651
+Ch_YCDQPT_cp	GeSeq	region	1	158651	.	+	0	Is_circular=true
+Ch_YCDQPT_cp	GeSeq	source	1	158651	.	+	1	ID=source-null;gbkey=source
+Ch_YCDQPT_cp	OGDRAW	inverted_repeat	133186	158651	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_YCDQPT_cp	OGDRAW	inverted_repeat	89021	114486	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_YCDQPT_cp	OGDRAW	sequence_feature	114487	133185	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_YCDQPT_cp	OGDRAW	sequence_feature	1	89020	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY04_cp	1	158639
+Ti_JY04_cp	GeSeq	region	1	158639	.	+	0	Is_circular=true
+Ti_JY04_cp	GeSeq	source	1	158639	.	+	1	ID=source-null;gbkey=source
+Ti_JY04_cp	OGDRAW	inverted_repeat	133174	158639	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY04_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY04_cp	OGDRAW	sequence_feature	114488	133173	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY04_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_PLA_cp	1	158638
+Gl_PLA_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_PLA_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_PLA_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_PLA_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_PLA_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_PLA_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_KAS_cp	1	158642
+Gl_KAS_cp	GeSeq	region	1	158642	.	+	0	Is_circular=true
+Gl_KAS_cp	GeSeq	source	1	158642	.	+	1	ID=source-null;gbkey=source
+Gl_KAS_cp	OGDRAW	inverted_repeat	133177	158642	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_KAS_cp	OGDRAW	inverted_repeat	89028	114493	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_KAS_cp	OGDRAW	sequence_feature	114494	133176	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_KAS_cp	OGDRAW	sequence_feature	1	89027	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_CX03_cp	1	158638
+Ti_CX03_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_CX03_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_CX03_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_CX03_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_CX03_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_CX03_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Nlcbb_cp	1	158638
+Nlcbb_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Nlcbb_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Nlcbb_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Nlcbb_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Nlcbb_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Nlcbb_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_AB02_cp	1	158638
+Ti_AB02_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_AB02_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_AB02_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_AB02_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_AB02_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_AB02_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_ZE01_cp	1	158638
+Ti_ZE01_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_ZE01_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_ZE01_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_ZE01_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_ZE01_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_ZE01_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_BHA_cp	1	158641
+Gl_BHA_cp	GeSeq	region	1	158641	.	+	0	Is_circular=true
+Gl_BHA_cp	GeSeq	source	1	158641	.	+	1	ID=source-null;gbkey=source
+Gl_BHA_cp	OGDRAW	inverted_repeat	133176	158641	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_BHA_cp	OGDRAW	inverted_repeat	89027	114492	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_BHA_cp	OGDRAW	sequence_feature	114493	133175	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_BHA_cp	OGDRAW	sequence_feature	1	89026	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_SB_cp	1	158638
+Ch_SB_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_SB_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_SB_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_SB_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_SB_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_SB_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY05_cp	1	158638
+Ti_JY05_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ti_JY05_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ti_JY05_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY05_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY05_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY05_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_KAI_cp	1	158638
+Gl_KAI_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_KAI_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_KAI_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_KAI_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_KAI_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_KAI_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ch_MNZ_cp	1	158638
+Ch_MNZ_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Ch_MNZ_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Ch_MNZ_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ch_MNZ_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ch_MNZ_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ch_MNZ_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY08_cp	1	158645
+Ti_JY08_cp	GeSeq	region	1	158645	.	+	0	Is_circular=true
+Ti_JY08_cp	GeSeq	source	1	158645	.	+	1	ID=source-null;gbkey=source
+Ti_JY08_cp	OGDRAW	inverted_repeat	133180	158645	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY08_cp	OGDRAW	inverted_repeat	89029	114494	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY08_cp	OGDRAW	sequence_feature	114495	133179	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY08_cp	OGDRAW	sequence_feature	1	89028	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Ti_JY13_cp	1	158629
+Ti_JY13_cp	GeSeq	region	1	158629	.	+	0	Is_circular=true
+Ti_JY13_cp	GeSeq	source	1	158629	.	+	1	ID=source-null;gbkey=source
+Ti_JY13_cp	OGDRAW	inverted_repeat	133164	158629	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Ti_JY13_cp	OGDRAW	inverted_repeat	89013	114478	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Ti_JY13_cp	OGDRAW	sequence_feature	114479	133163	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Ti_JY13_cp	OGDRAW	sequence_feature	1	89012	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
+##sequence-region	Gl_MED_cp	1	158638
+Gl_MED_cp	GeSeq	region	1	158638	.	+	0	Is_circular=true
+Gl_MED_cp	GeSeq	source	1	158638	.	+	1	ID=source-null;gbkey=source
+Gl_MED_cp	OGDRAW	inverted_repeat	133173	158638	.	+	.	ID=repeat_region-ogdraw_repreg1;gbkey=repeat_region;Note=inverted_repeat_A_(IRA);rpt_type=inverted
+Gl_MED_cp	OGDRAW	inverted_repeat	89022	114487	.	+	.	ID=repeat_region-ogdraw_repreg2;gbkey=repeat_region;Note=inverted_repeat_B_(IRB);rpt_type=inverted
+Gl_MED_cp	OGDRAW	sequence_feature	114488	133172	.	+	1	ID=misc_feature-ogdraw_ssc;gbkey=misc_feature;Note=small_single_copy_(SSC)
+Gl_MED_cp	OGDRAW	sequence_feature	1	89021	.	+	1	ID=misc_feature-ogdraw_lsc;gbkey=misc_feature;Note=large_single_copy_(LSC)
