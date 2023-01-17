@@ -5,7 +5,8 @@ print(SAMPLES)
 rule all:
     input:
         expand("map.reads.to.cp/{sample}/check.sorted.bam.bai",sample=SAMPLES),
-        expand("map.reads.to.cp/{sample}/{sample}_reads_num.csv",sample=SAMPLES)
+        expand("map.reads.to.cp/{sample}/{sample}_reads_num.csv",sample=SAMPLES),
+        expand("map.reads.to.cp/{sample}/{sample}.depth",sample=SAMPLES)
 
 rule samtools_sorted:
     input:
@@ -43,4 +44,16 @@ rule count_reads_number:
     shell:
         """
         python stat_read_num_mapped_cp.py --input_bam {input} --chr_id {params} --output_file {output}
+        """
+
+rule samtools_depth:
+    input:
+        rules.samtools_sorted.output
+    output:
+        "map.reads.to.cp/{sample}/{sample}.depth"
+    threads:
+        1
+    shell:
+        """
+        samtools depth {input} -o {output}
         """
