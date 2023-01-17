@@ -11,9 +11,11 @@ python .\generate_MCScanX_input.py --gb .\co_synteny\NC_037023.gb --protein_fast
 
 python .\generate_MCScanX_input.py --gb .\co_synteny\NC_039975.gb --protein_fasta .\co_synteny\MCScanX_input\NC_039975.fasta --gff .\co_synteny\MCScanX_input\NC_039975.gff
 
+python .\generate_MCScanX_input.py --gb .\co_synteny\MK603511.gb --protein_fasta .\co_synteny\MCScanX_input\MK603511.fasta --gff .\co_synteny\MCScanX_input\MK603511.gff
 
-cat \co_synteny\MCScanX_input\*.fasta > cp.fasta
-cat \co_synteny\MCScanX_input\*.gff > cp.gff
+
+cat .\co_synteny\MCScanX_input\*.fasta > cp.fasta
+cat .\co_synteny\MCScanX_input\*.gff > cp.gff
 
 # conda install blast
 
