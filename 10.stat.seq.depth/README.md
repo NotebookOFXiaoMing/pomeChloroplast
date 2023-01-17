@@ -58,3 +58,14 @@ snakemake --cluster "sbatch --output=/mnt/shared/scratch/myan/private/pome_WGS/s
 ```
 sbatch run_map_reads_to_cp.sh
 ```
+
+sam to sorted bam and count the number of reads and the number of base pair aand samtools depth
+
+```
+python stat_read_num_mapped_cp.py --input_bam map.reads.to.cp/Ch_TSH/check.sorted.bam --chr_id Ch_TSH_cp --output_file map.reads.to.cp/Ch_TSH/Ch_TSH_reads_num.csv
+
+snakemake -s stat_read_num_mapped_cp.smk --cores 8 -p
+
+cat map.reads.to.cp/*/*.csv > reads_and_base.csv
+cat map.reads.to.cp/*/*.depth > reads.depth
+```
