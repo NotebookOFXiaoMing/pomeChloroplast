@@ -69,3 +69,37 @@ snakemake -s stat_read_num_mapped_cp.smk --cores 8 -p
 cat map.reads.to.cp/*/*.csv > reads_and_base.csv
 cat map.reads.to.cp/*/*.depth > reads.depth
 ```
+
+```
+df01<-read.csv("D:/Bioinformatics_Intro/organelle-assembly/pome_cp/reads_and_base.csv",
+               header = FALSE)
+head(df01)
+range(df01$V2)
+mean(df01$V2)
+min(df01$V2)*300/1000000
+max(df01$V2)*300/1000000
+sum(df01$V2*300)/1000000
+
+library(readr)
+df02<-read_delim("D:/Bioinformatics_Intro/organelle-assembly/pome_cp/reads.depth",
+                 col_names = FALSE)
+head(df02)
+library(tidyverse)
+df02 %>% 
+  group_by(X1) %>% 
+  summarise(mean_depth=mean(X3)) %>% pull(mean_depth) %>% 
+  range()
+
+df02 %>% 
+  group_by(X1) %>% 
+  summarise(mean_depth=mean(X3)) %>% 
+  pull(mean_depth) %>% 
+  mean()
+  
+  pdf(file = "depth_boxplot.pdf",
+    width=10,height = 4)
+df02 %>% 
+  ggplot(aes(X1,X3))+
+  geom_boxplot(outlier.shape = NA)
+dev.off()
+```
